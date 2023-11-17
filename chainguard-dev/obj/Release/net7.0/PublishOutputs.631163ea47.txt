@@ -1,0 +1,5 @@
+/Users/rahulrao/OOD3500/dotnet-hello-world/dotnet-hello-world/HelloWorld/bin/Release/net7.0/publish/HelloWorld
+/Users/rahulrao/OOD3500/dotnet-hello-world/dotnet-hello-world/HelloWorld/bin/Release/net7.0/publish/HelloWorld.dll
+/Users/rahulrao/OOD3500/dotnet-hello-world/dotnet-hello-world/HelloWorld/bin/Release/net7.0/publish/HelloWorld.deps.json
+/Users/rahulrao/OOD3500/dotnet-hello-world/dotnet-hello-world/HelloWorld/bin/Release/net7.0/publish/HelloWorld.runtimeconfig.json
+/Users/rahulrao/OOD3500/dotnet-hello-world/dotnet-hello-world/HelloWorld/bin/Release/net7.0/publish/HelloWorld.pdb

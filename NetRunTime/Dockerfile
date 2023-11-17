@@ -1,4 +1,4 @@
 FROM mcr.microsoft.com/dotnet/runtime:latest
 WORKDIR /app
-COPY bin/Release/net7.0/publish/ .
+COPY . .
 ENTRYPOINT ["dotnet", "HelloWorld.dll"]
